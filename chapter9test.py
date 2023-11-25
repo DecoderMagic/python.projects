@@ -10,3 +10,4 @@ if course_number in dict1:
     print('Meeting time: ', dict3[course_number])
 else:
     print('Course not found!')
+    print('Please try again.')
